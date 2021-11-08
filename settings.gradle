@@ -1,0 +1,5 @@
+rootProject.name = 'basic_project'
+include 'cliApplication'
+include 'numberInWords'
+
+
